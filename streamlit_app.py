@@ -1,4 +1,4 @@
 import streamlit
 
 streamlit.title("Hello Toffee")
-streamlit.text("Good dog!")
+streamlit.text('Good dog!')
